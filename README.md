@@ -1,7 +1,7 @@
 - Hey, I’m @GDDev
 - I’m interested in C#, Python, Machine Learning, Cybersecurity and some other stuff.
-- I’m currently learning intermediate C# and, also intermediate, Python.
-- I'm from Brasil, SP to be precise. So if you want to offer me a job or something, please reach me through my LinkedIn account:
+- I’m currently learning C# and Python.
+- I'm from Brasil, SP. If you're looking to contact me, please reach me through my LinkedIn account:
 - https://www.linkedin.com/in/gustavo-datovo
 
 <!---
