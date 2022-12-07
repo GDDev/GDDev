@@ -1,10 +1,31 @@
-- Hey, I’m @GDDev
-- I’m interested in C#, Python, Machine Learning, Cybersecurity and some other stuff.
-- I’m currently learning C# and Python.
-- I'm from Brasil, SP. If you're looking to contact me, please reach me through my LinkedIn account:
-- https://www.linkedin.com/in/gustavo-datovo
+## Projetos autorais
+  #### Nenhum projeto no momento 😞
+  
+## Projetos de Estudo
+  ### DIO
+    #### C#:
+      * https://github.com/GDDev/dio-project-hotel-reservation
+      * https://github.com/GDDev/dio-project-net-parkinglot
+    #### CSS:
+      * https://github.com/GDDev/css-transitions-dio
+    #### Java:
+      * https://github.com/GDDev/dio-project-cloud-parking
+      * https://github.com/GDDev/projeto-banco-digital-java-dio
+      * https://github.com/GDDev/projeto-beerstock-dio
+      * https://github.com/GDDev/projeto-java-poo-dio
+      * https://github.com/GDDev/projeto-padroes-de-projeto-dio
+      * https://github.com/GDDev/projeto-padroes-de-projeto-spring-dio
+    #### JavaScript:
+      * https://github.com/GDDev/jogo-da-memoria-dio
+      * https://github.com/GDDev/projeto-github-api-dio
+    #### Python/ML:
+      * https://github.com/GDDev/projeto-assistente-virtual-dio
+      * https://github.com/GDDev/projeto-reducao-de-dimensionalidade-dio
 
-<!---
-GDDev/GDDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  ### Outros
+    #### C#:
+      * https://github.com/GDDev/XadrezProject
+    #### Java:
+      * https://github.com/GDDev/DSMeta
+      * https://github.com/GDDev/dsmeta-css
+      * https://github.com/GDDev/dsmovie
