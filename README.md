@@ -1,8 +1,8 @@
-## Projetos autorais 👷
+# Projetos autorais 👷
 #### Nenhum projeto no momento 😞
   
-## Projetos de Estudo 📖
-### DIO
+# Projetos de Estudo 📖
+## DIO
   #### C#:
   * https://github.com/GDDev/dio-project-hotel-reservation
   * https://github.com/GDDev/dio-project-net-parkinglot
@@ -22,7 +22,7 @@
   * https://github.com/GDDev/projeto-assistente-virtual-dio
   * https://github.com/GDDev/projeto-reducao-de-dimensionalidade-dio
 
-### Outros
+## Outros
   #### C#:
   * https://github.com/GDDev/XadrezProject
   #### Java:
