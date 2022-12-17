@@ -16,6 +16,7 @@
   * https://github.com/GDDev/projeto-padroes-de-projeto-dio
   * https://github.com/GDDev/projeto-padroes-de-projeto-spring-dio
   #### JavaScript:
+  * https://github.com/GDDev/dio-project-pokedex
   * https://github.com/GDDev/jogo-da-memoria-dio
   * https://github.com/GDDev/projeto-github-api-dio
   #### Python/ML:
