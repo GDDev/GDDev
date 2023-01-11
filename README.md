@@ -1,6 +1,6 @@
 🇧🇷
 # Meu perfil no Codewars
-## https://www.codewars.com/users/GDDev
+  * https://www.codewars.com/users/GDDev
 
 # Projetos autorais 👷
 #### Nenhum projeto no momento 😞
@@ -35,9 +35,11 @@
   * https://github.com/GDDev/dsmeta-css
   * https://github.com/GDDev/dsmovie
 
+
+
 🇺🇸
 # My profile at Codewars
-## https://www.codewars.com/users/GDDev
+* https://www.codewars.com/users/GDDev
 
 # Personal projects 👷
 #### There are no projects right now 😞
