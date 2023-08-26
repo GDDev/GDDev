@@ -13,4 +13,5 @@
 * https://www.codewars.com/users/GDDev
 
 # Personal projects 👷
-#### There are no projects right now 😞
+### Hotel management system
+#### https://github.com/GDDev/hotel_management_project_maybe
